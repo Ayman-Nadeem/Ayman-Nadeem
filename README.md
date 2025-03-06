@@ -29,10 +29,18 @@ Leadership & Communication.<br>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-center: 10px;">
-<div>   
-    <a href="mailto:ayman.ndmshk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Ayman Nadeem - Email"></a>
-    <a href="[https://www.linkedin.com/in/muhammed-muaaz/](https://www.linkedin.com/in/ayman-nadeem-b3b408270/)" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Ayman Nadeem-Linkedin"></a><br>
+<div align="center" class="icons-social" style="margin-center: 10px;">
+    <div>   
+        <a href="mailto:ayman.ndmshk@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Ayman Nadeem - Email">
+        </a>
+        <a href="https://www.linkedin.com/in/ayman-nadeem-b3b408270/" target="_blank">
+            <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Ayman Nadeem - Linkedin">
+        </a>
+        <br>
+    </div>
+</div>
+
     
 	
 
